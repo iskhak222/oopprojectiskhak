@@ -23,5 +23,5 @@ A Java application for managing student records (CRUD) with file storage and a G
 10. Import/Export: Support for `.csv` format.
 
  Project Assets
-Presentation: [ССЫЛКА НА ГУГЛ ДИСК] 
+Presentation: (https://drive.google.com/drive/folders/14LysOjos3RuefaoNIQzeo5PUt8OCg2cn?usp=drive_link) 
 Screenshots: See `/screenshots` folder (includes date/time).
