@@ -1,6 +1,6 @@
 # Student Management System
-Author: [Iskhak Asylbekov]
-GitHub: [ССЫЛКА]
+Author: Iskhak Asylbekov
+GitHub: (https://github.com/iskhak222/oopprojectiskhak.git)
 
  Description
 A Java application for managing student records (CRUD) with file storage and a GUI.
